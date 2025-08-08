@@ -2,7 +2,7 @@
 # AnSoHey-Messenger
 AnSoHey-Messenger is a real-time messaging application built with React that enables fast, secure, and seamless communication between users. Designed with a modern, intuitive UI, it allows individuals to connect instantly and share media files.
 
-## UML Diagrams:
+## UML Diagrams & System Design:
 
 ### ER Diagram:
 <img width="auto" height="400" alt="ER_Diagram" src="https://github.com/user-attachments/assets/d8fe6754-8bbb-401f-88b6-be0657996b35" /> <br>
@@ -46,7 +46,7 @@ Error/404 Page – For invalid URLs/paths.
 Unauthenticated Users → Login/Signup/Forgot Password. <br>
 Authenticated Users → Chats List → Chat Room → Media/Search/Profile.
 
-## Brand Palette & Usage Guide
+## Brand Palette
 ### 1. Primary Colors
 Turquoise Blue: #00B6D6 <br>
 Deep Teal: #007A91
@@ -68,7 +68,7 @@ Form Cards: White (#FFFFFF) <br>
 Buttons: Turquoise Blue (#00B6D6) with hover Deep Teal (#007A91) <br>
 Error Text: Error Red (#E74C3C)
 
-## Chat Page
+### Chat Page
 Header Bar: Turquoise Blue (#00B6D6) <br>
 Chat Background: Light Cyan (#DFF9FB) <br>
 User Messages: White (#FFFFFF) with text in Deep Teal (#007A91) <br>
@@ -76,8 +76,37 @@ Friend Messages: Light Cyan (#DFF9FB) with border in Deep Teal (#007A91) <br>
 Typing Indicator: Typing Yellow (#F1C40F) <br>
 Online Dot: Online Green (#2ECC71) <br>
 
-## Settings Page
+### Settings Page
 Background: White (#FFFFFF) <br>
 Save Button: Turquoise Blue (#00B6D6) <br>
 Cancel Button: Deep Teal (#007A91) <br>
 Alerts: Error Red (#E74C3C) or Typing Yellow (#F1C40F) depending on context
+
+## Development Plan
+### Phase 1 – Setup
+Repo setup, environment config. <br>
+Install dependencies. <br>
+Routing structure. <br>
+UI theme setup. <br>
+
+### Phase 2 – Authentication
+Implement signup/login. <br>
+Profile setup after signup. <br>
+Forgot password.
+
+### Phase 3 – Core Chat
+Chats list page.  <br>
+Real-time chat rooms (Socket.IO/Firebase). <br>
+Typing indicators & message status. <br>
+Media upload and preview.
+
+### Phase 4 – Extra Features
+Group chats. <br>
+Media gallery. <br>
+Search functionality.
+
+### Phase 5 – Final Touch
+Privacy settings. <br>
+Error handling. <br>
+Mobile responsiveness. <br>
+Deployment.
