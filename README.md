@@ -45,3 +45,39 @@ Error/404 Page – For invalid URLs/paths.
 ## Navigation Flow
 Unauthenticated Users → Login/Signup/Forgot Password. <br>
 Authenticated Users → Chats List → Chat Room → Media/Search/Profile.
+
+## Brand Palette & Usage Guide
+### 1. Primary Colors
+Turquoise Blue: #00B6D6 <br>
+Deep Teal: #007A91
+
+### 2. Secondary Colors
+White: #FFFFFF <br>
+Light Cyan: #DFF9FB
+
+
+### 3. Accent Colors
+Online Green: #2ECC71 <br>
+Typing Yellow: #F1C40F <br>
+Error Red: #E74C3C
+
+## Color Usage by Page
+### Login / Signup Page
+Background: Light Cyan (#DFF9FB) <br>
+Form Cards: White (#FFFFFF) <br>
+Buttons: Turquoise Blue (#00B6D6) with hover Deep Teal (#007A91) <br>
+Error Text: Error Red (#E74C3C)
+
+## Chat Page
+Header Bar: Turquoise Blue (#00B6D6) <br>
+Chat Background: Light Cyan (#DFF9FB) <br>
+User Messages: White (#FFFFFF) with text in Deep Teal (#007A91) <br>
+Friend Messages: Light Cyan (#DFF9FB) with border in Deep Teal (#007A91) <br>
+Typing Indicator: Typing Yellow (#F1C40F) <br>
+Online Dot: Online Green (#2ECC71) <br>
+
+## Settings Page
+Background: White (#FFFFFF) <br>
+Save Button: Turquoise Blue (#00B6D6) <br>
+Cancel Button: Deep Teal (#007A91) <br>
+Alerts: Error Red (#E74C3C) or Typing Yellow (#F1C40F) depending on context
