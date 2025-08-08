@@ -12,7 +12,7 @@ AnSoHey-Messenger is a real-time messaging application built with React that ena
 <img width="auto" height="400" alt="System_Architecture" src="https://github.com/user-attachments/assets/a0ab56d3-d220-47e1-a6ea-a1a5e94d4abf" />
 
 
-## Pages:
+## Features & Pages:
 ### 1️. Authentication & User Management
 Login Page – Email/username + password authentication. <br>
 Signup Page – New user registration. <br>
