@@ -1,6 +1,17 @@
-## AnSoNet_messenger
+# AnSoNet_messenger
 AnSoNet_messenger is a real-time messaging application built with React that enables fast, secure, and seamless communication between users. Designed with a modern, intuitive UI, it allows individuals to connect instantly and share media files.
 
+## UML Diagrams:
+
+### ER Diagram:
+<img width="auto" height="400" alt="ER_Diagram" src="https://github.com/user-attachments/assets/d8fe6754-8bbb-401f-88b6-be0657996b35" /> <br>
+### Sequence Diagram:
+<img width="auto" height="400" alt="Sequence_Diagram" src="https://github.com/user-attachments/assets/bff7d6ee-ad1b-4405-8b36-05307d9fa835" /> <br>
+### System Architecture:
+<img width="auto" height="400" alt="System_Architecture" src="https://github.com/user-attachments/assets/a0ab56d3-d220-47e1-a6ea-a1a5e94d4abf" />
+
+
+## Pages:
 ### 1️. Authentication & User Management
 Login Page – Email/username + password authentication. <br>
 Signup Page – New user registration. <br>
@@ -30,6 +41,6 @@ Media Gallery Page (per chat) - View all shared images, videos, and audio files.
 Search Results Page - Search messages, users, or groups. <br>
 Error/404 Page – For invalid URLs/paths.
 
-### Navigation Flow
+## Navigation Flow
 Unauthenticated Users → Login/Signup/Forgot Password. <br>
 Authenticated Users → Chats List → Chat Room → Media/Search/Profile.
