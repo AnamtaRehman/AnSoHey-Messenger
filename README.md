@@ -105,7 +105,7 @@ Group chats. <br>
 Media gallery. <br>
 Search functionality.
 
-### Phase 5 – Final Touch
+### Phase 5 – Misc.
 Privacy settings. <br>
 Error handling. <br>
 Mobile responsiveness. <br>
