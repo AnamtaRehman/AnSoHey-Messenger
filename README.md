@@ -1,3 +1,4 @@
+<img width="90" height="90" alt="Logo" src="https://github.com/user-attachments/assets/40e6649b-a9ad-4116-b941-6a1f96b5e0f4" /> <br> 
 # AnSoHey-Messenger
 AnSoNet_messenger is a real-time messaging application built with React that enables fast, secure, and seamless communication between users. Designed with a modern, intuitive UI, it allows individuals to connect instantly and share media files.
 
